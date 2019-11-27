@@ -1,6 +1,6 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://ucarecdn.com/37b7105a-bee5-4189-8087-42f7e11e4203/1200pxHTML5_logo_and_wordmarksvg.png" width="69">
+  <img src="https://ucarecdn.com/37b7105a-bee5-4189-8087-42f7e11e4203/1200pxHTML5_logo_and_wordmarksvg.png" width="67">
 </a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
